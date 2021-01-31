@@ -1,0 +1,2 @@
+# illegalShop
+C'était ma 1er création en RageUI elle date de Octobre 2020. Je ne l'utilise plus et je vous le drop du coup car j'avais besoins d'alimenter un peu mon GitHub Aucun support fournis.  Je vous donne le discord de ozne qui est le discord de dev ou je suis le plus actif si vous avez besoins d'aide: https://discord.gg/suyrMdpf Un mapping est fournis avec ! Pour config go dans le Client.lua et dans le Server.lua Enjoy
