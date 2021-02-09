@@ -1,5 +1,6 @@
 ESX = nil
 
+--By ardox
 Citizen.CreateThread(function()
 	while ESX == nil do
 		TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
